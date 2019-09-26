@@ -44,7 +44,7 @@ class Human {
             return
         }
         
-        print("We get new book said \(name) with name \(nameOfBook)")
+        print("We got new book \(nameOfBook) said \(name) ")
     }
 }
 
